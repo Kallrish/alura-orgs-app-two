@@ -39,9 +39,3 @@ As técnicas e tecnologias utilizadas pra isso são:
 Tela de detalhes do produto
 
 ![orgs-desafio-detalhes](https://user-images.githubusercontent.com/8989346/124600562-3a743e00-de3d-11eb-9d45-15e8a8d2976f.gif)
-
-[Você pode conferir o resultado do desafio neste commit](https://github.com/alura-cursos/android-com-kotlin-personalizando-ui/commit/3188f27a627592715e7de62b6da450696e401f18).
-
-## 📚 Mais informações do curso
-
-Gostou do projeto e quer conhecer mais? Você pode [acessar o curso](https://cursos.alura.com.br/course/android-kotlin-personalize-app) que desenvolve o projeto desde o começo!
